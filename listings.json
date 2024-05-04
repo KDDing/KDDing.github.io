@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/blogs/machine-learning/01.html",
+      "/blogs/statistics/06-stats.html",
+      "/blogs/statistics/05-stats.html",
+      "/blogs/statistics/02-stats.html",
+      "/blogs/statistics/03-stats.html",
+      "/blogs/statistics/04-stats.html",
+      "/blogs/statistics/01-stats.html",
+      "/blogs/bioinformatics/09-bio.html",
+      "/blogs/bioinformatics/07-bio.html",
+      "/blogs/bioinformatics/08-bio.html",
+      "/blogs/bioinformatics/06-bio.html",
+      "/blogs/bioinformatics/05-bio.html",
+      "/blogs/bioinformatics/04-bio.html",
+      "/blogs/bioinformatics/01-bio.html",
+      "/blogs/bioinformatics/02-bio.html",
+      "/blogs/bioinformatics/03-bio.html"
+    ]
+  }
+]
