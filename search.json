@@ -30,7 +30,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Pingjian DING",
+    "title": "Pingjian DING (丁平尖)",
     "section": "",
     "text": "Pingjian DING currently serves as an Associate Professor at the University of South China. Prior to joining the University of South China, he was a Postdoctoral Scholar and later promoted to a research associate at the School of Medicine, Case Western Reserve University, collaborating with Dr. Rong XU. He earned his Ph.D. in Computer Science from the College of Computer Science and Electronic Engineering at Hunan University in 2019, supervised by Dr. Jiawei LUO. From August 2017 to September 2018, he was a visiting Ph.D. student at the biomedical informatics lab of Nanyang Technological University, supervised by Dr. Chee-Keong KWOH. His research primarily focuses on integrating machine learning and deep learning into biostatistical methodologies, particularly in neurological research, with a focus on addressing Alzheimer’s Disease.\nFind What You Love and Let It Kill You!"
   },
@@ -40,6 +40,27 @@
     "title": "Contact",
     "section": "",
     "text": "dpjhnu@qq.com\ndpjhnu@gmail.com\ndpj@usc.edu.cn"
+  },
+  {
+    "objectID": "books/data_analysis.html",
+    "href": "books/data_analysis.html",
+    "title": "Data Analysis and Visualisation",
+    "section": "",
+    "text": "This course will explore the tools and frameworks widely used in both industry and academia for data collection and analysis, with a focus on the Python programming language.\n\n\n\n\n\nPython介绍（slides）\n\n\nPython基本语法（slides）\n\n\n文件，类和函数式编程（slides）\n\n\nnumpy，scipy和matplotlib（slides）\n\n\npandas（slides）\n\n\n文本编码和正则表达式（slides）\n\n\n来自网络的结构化数据（slides）\n\n\nSQL数据库（slides）\n\n\n图数据库（slides）\n\n\nUNIX/LINUX命令行（slides）\n\n\nPython并行计算（slides）\n\n\nPython CUDA计算（slides）\n\n\nscikit-learn（slides）\n\n\nPyTorch（slides）\n\n\nPyTorch和Tensorboard（slides）\n\n\nMapReduce和PySpark（slides）"
+  },
+  {
+    "objectID": "books/data_analysis.html#about-this-course",
+    "href": "books/data_analysis.html#about-this-course",
+    "title": "Data Analysis and Visualisation",
+    "section": "",
+    "text": "This course will explore the tools and frameworks widely used in both industry and academia for data collection and analysis, with a focus on the Python programming language."
+  },
+  {
+    "objectID": "books/data_analysis.html#course-syllabus-2024",
+    "href": "books/data_analysis.html#course-syllabus-2024",
+    "title": "Data Analysis and Visualisation",
+    "section": "",
+    "text": "Python介绍（slides）\n\n\nPython基本语法（slides）\n\n\n文件，类和函数式编程（slides）\n\n\nnumpy，scipy和matplotlib（slides）\n\n\npandas（slides）\n\n\n文本编码和正则表达式（slides）\n\n\n来自网络的结构化数据（slides）\n\n\nSQL数据库（slides）\n\n\n图数据库（slides）\n\n\nUNIX/LINUX命令行（slides）\n\n\nPython并行计算（slides）\n\n\nPython CUDA计算（slides）\n\n\nscikit-learn（slides）\n\n\nPyTorch（slides）\n\n\nPyTorch和Tensorboard（slides）\n\n\nMapReduce和PySpark（slides）"
   },
   {
     "objectID": "blogs.html",
